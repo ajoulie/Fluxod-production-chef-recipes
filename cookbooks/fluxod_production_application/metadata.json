@@ -16,7 +16,7 @@
   "recommendations": {
   },
   "recipes": {
-    "fluxod_production_application:helloword": "log 'hello word'"
+    "fluxod_production_application::helloword": "log 'hello word'"
   },
   "groupings": {
   },
