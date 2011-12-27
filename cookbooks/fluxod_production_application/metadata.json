@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+  },
+  "name": "fluxod_production_application",
+  "maintainer_email": "YOUR_EMAIL",
+  "attributes": {
+  },
+  "license": "All rights reserved",
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "maintainer": "YOUR_COMPANY_NAME",
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "version": "0.0.1",
+  "recommendations": {
+  },
+  "recipes": {
+    "fluxod_production_application:default": "log 'hello word'"
+  },
+  "groupings": {
+  },
+  "conflicting": {
+  },
+  "replacing": {
+  },
+  "description": "Installs/Configures fluxod_production_application",
+  "providing": {
+  }
+}
