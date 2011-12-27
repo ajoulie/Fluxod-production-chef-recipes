@@ -7,4 +7,4 @@
 # All rights reserved - Do Not Redistribute
 #
 #
-log 'hello word'
+log 'default hello word'
