@@ -8,3 +8,4 @@
 #
 #
 log 'default hello word'
+log "platform is #{node[:platform]}"
